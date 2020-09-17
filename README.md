@@ -115,3 +115,11 @@ Below is a list of Web Content that should be included in a website for a restau
 
 * __A website theme that matches the restaurant’s style__
 
+#### _User experience_ 
+
+Talking about user experience, this website is confusing, overwhelming and does not follow the mental model. When you first open the page this “lovely” French music plays. Now you would think that the music was coming from the video embedded from Youtube that sits in the middle of the fold of the site. I used the interaction model and tried to mute the youtube sound but to my bewilderment that did not stop the music. Instead there is a small light blue Play/ Pause button at the top left of the brickwall picture that mutes the music. Fleur De Sel had a photo gallery carousel at the bottom of their homepage but it was cumbersome to use and didn't work quite like expected. There was no option to order online, you have to call in an order. If they created a platform to allow guests to order online this would enhance the experience of the user. 
+
+#### _Mobile Responsiveness_ 
+
+The Fleur De Sel website did have a mobily responsive website but with little to interact with on the site and the only pertinent information being phone number, location and a poorly readable menu what would be the incentive for a user to utilize the mobile version of the site unless it was a necessity.   
+
