@@ -41,7 +41,8 @@ Visual hierarchy is a very important design fundamental. Proper visual hierarchy
 
 > In the top navigation bar, we find bright yellow text against a white background. The major issue with the color choice of yellow text against a white background, as it portrays to contrast, is low readability. The color contrast ratio of a color like yellow is about 1 whereas, for the color black, it has a score of 21 when against a white background. 
 
-> If people can’t read the text in the navigation bar then it’s harder to navigate and utilize the website.  We actually see this low visibility and low contrast ratio issue throughout the entire website.
+> When we talk about accessibility, if people can’t read the text in the navigation bar then it’s harder to navigate and utilize the website.  We actually see this low visibility and low contrast ratio issue throughout the entire website. To be on board with making a website accessible to everyone there are certain guidelines such as makeing the website _Perceivable, Operable, Understandable and Robust_.
+
 
 
 ### Perspective 
