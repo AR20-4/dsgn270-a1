@@ -92,29 +92,26 @@ Below is a list of Web Content that should be included in a website for a restau
 
 *  __Contact Information__
 
-Guests visiting restaurants’ websites should be able to find important information about the restaurant easily. Fleur De Sel did have their contact information on their landing page. 
+
 
 * __Menu as PDF__
 
-A visitor to a restaurants’ web page should never have to download a PDF. The menu should be legible with a good description of what the item is. Fleur Del Sel did have multiple menus on their site but they are hard to read.  
+  
 
 * __Have good images of the food__
 
-Fleur De Sel has great images of their food on their google page but not on their actual web page. This is a missed opportunity to showcase how upscale and delicious their food looks. 
+
 
 * __Online ordering (or at least online reservations) should be an option__
 
-Make it easy for your guests to order and your amount of orders will increase. It’s a simple way to grow your business. It takes a little work up front to set up but then it pays for itself. There was no online ordering for Fleur Del Sel.
 
 
 * __Images of the restaurant’s interior__
 
-Everyone loves pictures, they say a picture is worth a thousand words. Show potential guests what the look and feel of the restaurant is like.
-Fleur Del Sel had a photo gallery carousel at the bottom of their homepage but it was cumbersome to use and didn't work quite like expected.  
+
 
 * __Have an “about” section__
 
-What makes this restaurant stand out? Aside from classifying the type of food the restaurant servers what else makes the restaurant unique? Fleur De Sel is a French restaurant but there was no about section on their page to tell me more about their style of cooking or how they pair their courses or even if the restaurant is a Calgary staple? As part of their logo, there is a year date of 1998, if they have been around for over 20 years, tell the visitor more about the legacy of the restaurant. 
 
 * __A website theme that matches the restaurant’s style__
 
