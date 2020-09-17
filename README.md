@@ -98,7 +98,7 @@ Guests visiting restaurants’ websites should be able to find important informa
 
 A visitor to a restaurants’ web page should never have to download a PDF. The menu should be legible with a good description of what the item is. Fleur Del Sel did have multiple menus on their site but they are hard to read.  
 
-* __Have good images of your food__
+* __Have good images of the food__
 
 Fleur De Sel has great images of their food on their google page but not on their actual web page. This is a missed opportunity to showcase how upscale and delicious their food looks. 
 
@@ -116,5 +116,5 @@ Fleur Del Sel had a photo gallery carousel at the bottom of their homepage but i
 
 What makes this restaurant stand out? Aside from classifying the type of food the restaurant servers what else makes the restaurant unique? Fleur De Sel is a French restaurant but there was no about section on their page to tell me more about their style of cooking or how they pair their courses or even if the restaurant is a Calgary staple? As part of their logo, there is a year date of 1998, if they have been around for over 20 years, tell the visitor more about the legacy of the restaurant. 
 
-* __A website theme that matches your restaurant’s style__
+* __A website theme that matches the restaurant’s style__
 
