@@ -85,7 +85,7 @@ Visual hierarchy is a very important design fundamental. Proper visual hierarchy
 </ol>
 
 
-#### _What is the crucial information a potential guest would desire from a website for a restaurant?_
+### _What is the crucial information a potential guest would desire from a website for a restaurant?_
 
 
 *  __Contact Information__
