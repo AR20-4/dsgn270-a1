@@ -85,16 +85,18 @@ Visual hierarchy is a very important design fundamental. Proper visual hierarchy
 </ol>
 
 
-#### _What is the crucial information a potential guest would desire from a website for a restaurant?_
+#### _As far as Web Content ask the question, What is the crucial information a potential guest would desire from a website for a restaurant?_
+
+Below is a list of Web Content that should be included in a website for a restaurant.
 
 
 *  __Contact Information__
 
-Guests visiting restaurants’ websites should be able to find important information about the restaurant easily. 
+Guests visiting restaurants’ websites should be able to find important information about the restaurant easily. Fleur De Sel did have their contact information on their landing page. 
 
 * __Menu as PDF__
 
-A visitor at a restaurants’ web page should never have to download a PDF. The menu should be legible with a good description of what the item is. 
+A visitor to a restaurants’ web page should never have to download a PDF. The menu should be legible with a good description of what the item is. Fleur Del Sel did have multiple menus on their site but they there are hard to read.  
 
 * __Have good images of your food__
 
@@ -102,12 +104,13 @@ Fleur De Sel has great images of their food on their google page but not on thei
 
 * __Online ordering (or at least online reservations) should be an option__
 
-Make it easy for your guests to order and your amount of orders will increase. It’s a simple way to grow your business it takes a little work up front to set it up but then it pays for its self. 
+Make it easy for your guests to order and your amount of orders will increase. It’s a simple way to grow your business it takes a little work up front to set it up but then it pays for its self. There was no online ordering for Fleur Del Sel.
 
 
 * __Images of the restaurant’s interior__
 
-Everyone loves pictures, they say a picture is worth a thousand words. Show potential guests what the look and feel of the restaurant is like. 
+Everyone loves pictures, they say a picture is worth a thousand words. Show potential guests what the look and feel of the restaurant is like.
+Fleur Del Sel had a photo gallery carousel at the bottom of their home page but it was cumbersome to use and didn't work quite like expected.  
 
 * __Have an“about” section__
 
