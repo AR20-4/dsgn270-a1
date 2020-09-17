@@ -122,5 +122,5 @@ Talking about user experience, this website is confusing, overwhelming and does 
 
 #### _Mobile Responsiveness_ 
 
-The Fleur De Sel website did have a mobily responsive website but with little to interact with on the site and the only pertinent information being phone number, location and a poorly readable menu what would be the incentive for a user to utilize the mobile version of the site unless it was a necessity.   
+The Fleur De Sel website did have a mobily responsive website but with little to interact with on the site and the only pertinent information being phone number, location and a poorly readable menu. What would be the incentive for a user to utilize the mobile version of the site unless it was a necessity?  
 
