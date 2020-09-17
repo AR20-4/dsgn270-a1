@@ -2,7 +2,7 @@
 
 ### Website Critique for Fleur De Sel
 
-#### By: Rcahel Glagsow 
+#### By: Rachel Glasgow 
 
 [Fleur De Sel/Flower of Salt ](https://www.fleurdeselbrasserie.com)
 
