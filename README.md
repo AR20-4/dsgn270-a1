@@ -73,4 +73,39 @@ Visual hierarchy is a very important design fundamental. Proper visual hierarchy
 
 > Lastly the font choices for most of the body of the site lack consistency. This lack of congruency on the page makes it hard to follow, then couple that with the lack of negative space as well as poor scale and a visitor to this site is now confused and doesn’t know where the focus is. 
 
+------
+**There are 3 concepts we can employ to make this website better.**
+
+<ol>
+<li>Web Content</li> 
+
+<li>User Experience</li>
+
+<li>Mobile Responsiveness</li>
+</ol>
+
+
+_What is the crucial information a potential guest would desire from a website for a restaurant?_
+
+
+* Contact Information
+Guests visiting restaurants’ websites should be able to find important information about the restaurant easily. 
+
+* Menu as PDF
+A visitor at a restaurants’ web page should never have to download a PDF. The menu should be legible with a good description of what the item is. 
+
+* Have good images of your food
+Fleur De Sel has great images of their food on their google page but not on their actual web page. This is a missed opportunity to showcase how upscale and delicious their food looks. 
+
+* Online ordering (or at least online reservations) should be an option
+Make it easy for your guests to order and your amount of orders will increase. It’s a simple way to grow your business it takes a little work up front to set it up but then it pays for its self. 
+
+
+* Images of the restaurant’s interior
+Everyone loves pictures, they say a picture is worth a thousand words. Show potential guests what the look and feel of the restaurant is like. 
+
+* Have an“about” section
+What makes this restaurant stand out? Aside from classifying the type of food the restaurant servers what else makes the restaurant unique? Fleur De Sel is a French restaurant but there was no about section on their page to tell me more about their style of cooking or how they pair their courses or even if the restaurant is a Calgary staple? As part of their logo, there is a year date of 1998, if they have been around for over 20 years, tell the visitor more about the legacy of the restaurant. 
+
+* A website theme that matches your restaurant’s style
 
