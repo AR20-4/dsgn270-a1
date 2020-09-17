@@ -65,7 +65,7 @@ Visual hierarchy is a very important design fundamental. Proper visual hierarchy
 ### Negative space 
 
 
-> The feeling that this site is smooshed and that there’s too much to look at has to do with its lack of negative space. 
+> The feeling that this site is squished and that there’s too much to look at has to do with its lack of negative space. 
 
 
 ### Typography 
