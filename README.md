@@ -74,7 +74,7 @@ Visual hierarchy is a very important design fundamental. Proper visual hierarchy
 > Lastly the font choices for most of the body of the site lack consistency. This lack of congruency on the page makes it hard to follow, then couple that with the lack of negative space as well as poor scale and a visitor to this site is now confused and doesn’t know where the focus is. 
 
 ------
-**There are 3 concepts we can employ to make this website better.**
+### **There are 3 concepts we can employ to make this website better.**
 
 <ol>
 <li>Web Content</li> 
@@ -85,7 +85,7 @@ Visual hierarchy is a very important design fundamental. Proper visual hierarchy
 </ol>
 
 
-### _What is the crucial information a potential guest would desire from a website for a restaurant?_
+#### _What is the crucial information a potential guest would desire from a website for a restaurant?_
 
 
 *  __Contact Information__
